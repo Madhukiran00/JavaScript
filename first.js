@@ -341,6 +341,23 @@
 
 
 
+//Comparision of two strings
+
+//without constructor
+// var str1="madhu"
+// var str2="madhu"
+
+// console.log("Without Constructer:",str1==str2)
+
+// //with constructor
+// var string1= new String ("madhu")
+// var string2= new String ("madhu")
+
+// console.log("With constructer:",string1==string2)
+
+
+
+
 
 
 
