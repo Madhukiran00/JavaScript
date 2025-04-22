@@ -14,7 +14,6 @@
 // console.log(name)
 // console.log(typeof(name))
 
-
 // //Boolean
 // var s=true
 // console.log(s)
