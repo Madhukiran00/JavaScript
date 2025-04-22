@@ -339,8 +339,6 @@
 // var b=parseInt(prompt("Enter the no2"))
 // console.log(a+b)
 
-
-
 //Comparision of two strings
 
 //without constructor
