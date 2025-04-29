@@ -14,7 +14,6 @@
 // console.log(name)
 // console.log(typeof(name))
 
-
 // //Boolean
 // var s=true
 // console.log(s)
@@ -338,8 +337,6 @@
 // var a=parseInt(prompt("Enter the no1"))
 // var b=parseInt(prompt("Enter the no2"))
 // console.log(a+b)
-
-
 
 //Comparision of two strings
 
