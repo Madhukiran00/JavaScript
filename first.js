@@ -353,7 +353,9 @@
 // console.log("With constructer:",string1==string2)
 
 
-
+let a=10
+a=30
+console.log(a)
 
 
 
