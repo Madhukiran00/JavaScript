@@ -354,8 +354,8 @@
 
 
 let a=10
-a=30
-console.log(a)
+a=false
+console.log(typeof(a))
 
 
 
