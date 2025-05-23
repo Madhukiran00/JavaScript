@@ -353,10 +353,40 @@
 // console.log("With constructer:",string1==string2)
 
 
-let a=10
-a=false
-console.log(typeof(a))
+// let a=10
+// a=false
+// console.log(typeof(a))
 
+
+
+
+// let container
+// container="madhu"
+// console.log(container)
+
+// container=123
+// console.log(container)
+
+
+// let email=`madhu@gmail.com`
+// console.log(typeof(email))
+
+// let fdf=`dfndnrgf dfghgf
+//            dfb dfgfd gdfg`
+
+// let a=none
+// console.log(typeof(a))  
+
+// console.log(`fgd ${fdf} gfdh`)
+
+
+
+
+// let a=["madhu", "sai", "kiran"]
+// console.log(a[0])
+// console.log(a[1])
+// console.log(a)
+// console.log(typeof(a))
 
 
 
