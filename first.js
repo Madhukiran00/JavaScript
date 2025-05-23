@@ -264,15 +264,6 @@
 // a[5]=3
 // console.log(a)
 
-
-
-
-
-
-
-
-
-
 // //Array Methods 
 // var a=[1,2,3,4,5]
 // //push()
