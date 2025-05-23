@@ -379,9 +379,6 @@
 
 // console.log(`fgd ${fdf} gfdh`)
 
-
-
-
 // let a=["madhu", "sai", "kiran"]
 // console.log(a[0])
 // console.log(a[1])
