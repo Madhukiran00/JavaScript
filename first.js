@@ -195,6 +195,8 @@
 //     console.log(b[res1])
 // }
 
+
+
 // var a=12
 // if (a<0)
 // {
