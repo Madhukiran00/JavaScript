@@ -347,10 +347,6 @@
 // let a=10
 // a=false
 // console.log(typeof(a))
-
-
-
-
 // let container
 // container="madhu"
 // console.log(container)
