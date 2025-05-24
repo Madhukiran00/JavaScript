@@ -378,7 +378,10 @@
 
 
 
+a="madhu"
+b="mjgjg"
 
+console.log(a===b)
 
 
 
