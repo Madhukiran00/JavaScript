@@ -379,10 +379,23 @@
 
 
 
-a="madhu"
-b="mjgjg"
+// a="madhu"
+// b="mjgjg"
 
-console.log(a===b)
+// console.log(a===b)
+
+
+var  col="black"
+switch (black){
+    case 'white':
+        console.log("white")
+    case 'red':
+        console.log("red")
+    case 'blue':
+        console.log("blue")
+
+}
+
 
 
 
