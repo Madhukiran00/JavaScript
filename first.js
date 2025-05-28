@@ -390,17 +390,32 @@
 // console.log(a===b)
 
 
-var  col="black"
-switch (black){
-    case 'white':
-        console.log("white")
-    case 'red':
-        console.log("red")
-    case 'blue':
-        console.log("blue")
+// var  col="black"
+// switch (black){
+//     case 'white':
+//         console.log("white")
+//     case 'red':
+//         console.log("red")
+//     case 'blue':
+//         console.log("blue")
 
-}
+// }
 
+
+debugger;
+let color="blue";
+switch(color){
+    case "red":
+        console.log("The color is red")
+        break;
+    case "yello":
+        console.log("The color is yello")
+        break;
+    case "blue":
+        console.log("The color is blue")
+        break;
+    default: "The color is not available";
+   }
 
 
 

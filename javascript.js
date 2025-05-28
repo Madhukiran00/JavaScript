@@ -1,8 +1,14 @@
-
-let a=5
-if (a%2==0){
-    console.log("a is even ");
-}
-else{
-    console.log("a is odd ");
-}
+ debugger;
+let color="blue";
+switch(color){
+    case "red":
+        console.log("The color is red")
+        break;
+    case "yello":
+        console.log("The color is yello")
+        break;
+    case "blue":
+        console.log("The color is blue")
+        break;
+    default: "The color is not available";
+   }
