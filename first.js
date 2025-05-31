@@ -423,9 +423,14 @@
 
 
 
-a=10
-console.log(a)
-let a
+// a=10
+// console.log(a)
+// let a
+
+
+
+let input=prompt("Enter a number");
+console.log(input);
 
 
 
