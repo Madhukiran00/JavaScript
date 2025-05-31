@@ -13,9 +13,19 @@
 //     default: "The color is not available";
 //    }
 
-let i=1
-do{
-    console.log(i);
-    i++;
+// let i=1
+// do{
+//     console.log(i);
+//     i++;
 
-}while(i<10);
+// }while(i<10);
+
+a=10
+console.log(a)
+let var a
+
+
+
+
+
+
