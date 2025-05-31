@@ -22,7 +22,7 @@
 
 a=10
 console.log(a)
-let var a
+const var a
 
 
 
