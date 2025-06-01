@@ -435,7 +435,7 @@
 debugger
 a=10
 console.log(a)
-const a
+let a
 
 
 
