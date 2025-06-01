@@ -21,15 +21,25 @@
 // }while(i<10);
 
 
-let  a
-a=10
+// let  a
+// a=10
 
-console.log(a)
+// console.log(a)
 
 
 // let input=+prompt("Enter a number");
 // console.log(typeof(input));
 
 
+var a=(function(){
+   console.log("Hello World");
+})
+a()
 
 
+// v=a=>
+// {
+// console.log(a);
+// }
+
+// v(10);
