@@ -20,12 +20,15 @@
 
 // }while(i<10);
 
-// a=10
-// console.log(a)
-// const var a
 
-let input=+prompt("Enter a number");
-console.log(typeof(input));
+let  a
+a=10
+
+console.log(a)
+
+
+// let input=+prompt("Enter a number");
+// console.log(typeof(input));
 
 
 
