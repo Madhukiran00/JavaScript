@@ -432,10 +432,10 @@
 // let input=+prompt("Enter a number");
 // console.log(typeof(input));
 
-debugger
-a=10
-console.log(a)
-let a
+// debugger;
+// a=10
+// console.log(a)
+// let a
 
 
 
