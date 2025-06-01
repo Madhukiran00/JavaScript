@@ -427,12 +427,15 @@
 // console.log(a)
 // let a
 
+// debugger
+ 
+// let input=+prompt("Enter a number");
+// console.log(typeof(input));
 
-
-let input=prompt("Enter a number");
-console.log(input);
-
-
+debugger
+a=10
+console.log(a)
+const a
 
 
 
