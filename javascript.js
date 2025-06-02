@@ -37,9 +37,9 @@ var a=(function(){
 a()
 
 
-// v=a=>
-// {
-// console.log(a);
-// }
+v=a=>
+{
+console.log(a);
+}
 
-// v(10);
+v(10);
