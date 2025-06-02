@@ -31,15 +31,21 @@
 // console.log(typeof(input));
 
 
-var a=(function(){
-   console.log("Hello World");
-})
-a()
+// var a=(function(){
+//    console.log("Hello World");
+// })
+// a()
 
 
-v=a=>
-{
-console.log(a);
-}
+// v=a=>
+// {
+// console.log(a);
+// }
 
-v(10);
+// v(10);
+
+
+
+let arr=[1,2,3,4,5,6,7,8,9,10,,,,,,,,,];
+
+console.log(arr[0]);

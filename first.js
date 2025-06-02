@@ -439,6 +439,11 @@
 
 
 
+// let arr=[1,2,3,4,5,6,7,8,9,10,,,,,,,,,];
+let a="madhukiran"
+let b="madhu"
+// console.log(a.substr(0,15))console.log(a.substr(0,15))
+console.log(a.concat(" ",b))
 
 
 
