@@ -40,8 +40,15 @@ console.log(arr)
 console.log(arr.toString())
 // console.log(((arr.toString()).split(",")).join())
 
-arr1=[4,6,9,2,5,3]
+let arr1=[4,6,9,2,5,3]
 console.log(arr1.sort())
 console.log(arr1.reverse())
+console.log(arr1.at(3))
+
+let arr2=[4,9,1,8,2,5,3]
+console.log(arr2.slice(2))
+console.log(arr2.slice(2,5))
+
+arr2=arr2.split(",")
 
 
