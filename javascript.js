@@ -69,6 +69,12 @@ delete arr[2]
 console.log(arr);
 arr.slice(2)
 console.log(arr);
+
+
+
+
+
+
  
 
 
