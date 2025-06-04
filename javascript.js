@@ -63,12 +63,15 @@
 // let s1="This is string"
 // console.log(s1.replace("is","$$n"));
  
-let arr=[1,2,3,4,5]
+// let arr=[1,2,3,4,5]
 
-delete arr[2]
-console.log(arr);
-arr.slice(2)
-console.log(arr);
+// delete arr[2]
+// console.log(arr);
+// arr.slice(2)
+// console.log(arr);
+
+
+
 
 
 
