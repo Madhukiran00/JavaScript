@@ -445,14 +445,44 @@
 // // console.log(a.substr(0,15))console.log(a.substr(0,15))
 // console.log(a.concat(" ",b))
 
-let re=document.getElementById("name")
-console.log(re)
+// let re=document.getElementById("name")
+// re.style.color="red"
+// re.style.backgroundColor='yellow'
+// re.style.fontSize="40px"
+// re.innerHTML="madh<b>u</b>k<u>i</u>r<i>a</i>n"
+// console.log(re)
+// let va=document.createElement("p")
+
+// va.innerText="This is a paragraph created using DocumentFragment"
+// document.body.append(va)
+
+// let na=document.createElement('p')
+// na.innerText='My nanme is madhu'
+// document.body.append(na)
+
+// let na=document.createElement('p')
+
+// na.innerText='My name is madhu'
+// document.body.append(na)
 
 
 
 
+// let user=prompt("enter the color")
+
+// let ca=confirm("Are u sure ?")
+
+// let a=document.getElementById("name")
+
+// a.style.color=ca?user:"blue"
 
 
+let names=["madhu","kiran","sail","Praveen"]
+
+let va=function(v,i,a){
+    console.log(v)
+
+}
 
 
 
