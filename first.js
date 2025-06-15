@@ -477,14 +477,40 @@
 // a.style.color=ca?user:"blue"
 
 
-let names=["madhu","kiran","sail","Praveen"]
+// let names=["madhu","kiran","sail","Praveen"]
+// let name_list=document.createElement("ul")
+// names.forEach(function(v,i,a){
+//     let name_items=document.createElement("li")
+//     name_items.innerText=v
+//     name_list.append(name_items)
+    
+// })
+// document.body.append(name_list)
+// name_list.style.listStyleType="none"
 
-let va=function(v,i,a){
-    console.log(v)
+let names=[{name:"madhu",age:21},{name:"kiran",age:22},{name:"sai",age:23},{name:"lokesh",age:24}]
 
-}
+let name_list=document.createElement("ul")
+names.forEach(function(v,i,a){
+    let name_items=document.createElement("li")
+    name_items.innerText=v.name
+    name_list.append(name_items)
+})
+document.body.append(name_list)
+name_list.style.listStyle="circle"
 
 
+let names=[{name:"madhu",age:21},{name:"kiran",age:22},{name:"sai",age:23},{name:"lokesh",age:24}]
+
+let name_list=document.createElement("ol")
+
+names.forEach(function(v,i ,a){
+    let name_items=document.createElement("li")
+    name_items.innerText=v.name
+    console.log(v.name)
+    name_list.append(name_items)
+})
+document.body.append(name_list)
 
 
 
