@@ -445,6 +445,8 @@
 // // console.log(a.substr(0,15))console.log(a.substr(0,15))
 // console.log(a.concat(" ",b))
 
+let re=document.getElementById("name")
+console.log(re)
 
 
 
