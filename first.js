@@ -488,31 +488,38 @@
 // document.body.append(name_list)
 // name_list.style.listStyleType="none"
 
-let names=[{name:"madhu",age:21},{name:"kiran",age:22},{name:"sai",age:23},{name:"lokesh",age:24}]
+// let names=[{name:"madhu",age:21},{name:"kiran",age:12},{name:"sai",age:23},{name:"lokesh",age:24}]
 
-let name_list=document.createElement("ul")
-names.forEach(function(v,i,a){
-    let name_items=document.createElement("li")
-    name_items.innerText=v.name
-    name_list.append(name_items)
-})
-document.body.append(name_list)
-name_list.style.listStyle="circle"
-
-
-let names=[{name:"madhu",age:21},{name:"kiran",age:22},{name:"sai",age:23},{name:"lokesh",age:24}]
-
-let name_list=document.createElement("ol")
-
-names.forEach(function(v,i ,a){
-    let name_items=document.createElement("li")
-    name_items.innerText=v.name
-    console.log(v.name)
-    name_list.append(name_items)
-})
-document.body.append(name_list)
+// let name_list=document.createElement("ul")
+// names.forEach(function(v,i,a){
+//     let name_items=document.createElement("li")
+//     name_items.innerText=v.name
+//     name_list.append(name_items)
+//     v.age>18?name_items.style.color="green":name_items.style.color='orange'
+// })
+// document.body.append(name_list)
+// name_list.style.listStyle="circle"
 
 
+// let names=[{name:"madhu",age:21},{name:"kiran",age:22},{name:"sai",age:23},{name:"lokesh",age:24}]
+
+// let name_list=document.createElement("ol")
+
+// names.forEach(function(v,i ,a){
+//     let name_items=document.createElement("li")
+//     name_items.innerText=v.name
+//     console.log(v.name)
+//     name_list.append(name_items)
+// })
+// document.body.append(name_list)
 
 
+
+
+let heros=["prabhas","ranveer","salman","sharukh","akshay"]
+let heroines=["deepika","katrina","kareena","shraddha","anushka"]
+
+for (let i=0;i<heros.length;i++){
+    console.log(heros[i],"-",heroines[i])
+}
 
