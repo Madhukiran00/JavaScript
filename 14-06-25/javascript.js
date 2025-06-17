@@ -57,6 +57,8 @@ products.forEach(function(v,i,a){
     
     card_container.append(pro_image,pro_id,pro_title,pro_price,pro_rating)
     main_container.append(card_container)
+
+    
 })
 
 
