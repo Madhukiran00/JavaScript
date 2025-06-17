@@ -32,7 +32,7 @@ products.forEach(function(v,i,a){
     card_container.style.height="300px"
     card_container.style.width="20%"
     card_container.style.justifyItems="center"
-    card_container.style.backgroundColor="lightblue"
+    card_container.style.backgroundColor="lightorange"
     // card_container.style.display="flex"
     // card_container.style.flecDirection="column"
 
@@ -58,7 +58,7 @@ products.forEach(function(v,i,a){
     card_container.append(pro_image,pro_id,pro_title,pro_price,pro_rating)
     main_container.append(card_container)
 
-    
+
 })
 
 
