@@ -530,5 +530,7 @@
 // document.body.append(lis)
 
 
-window.sessionStorage.setItem()
+window.localStorage.setItem("madhu")
+
+window.localStorage.getItemItem("name")
 
