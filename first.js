@@ -530,7 +530,17 @@
 // document.body.append(lis)
 
 
-window.localStorage.setItem("madhu")
+// window.localStorage.setItem("madhu")
 
-window.localStorage.getItemItem("name")
+// window.localStorage.getItemItem("name")
+window.localStorage.setItem("Name", "Madhukiran");
+window.localStorage.setItem("age", "21");
+window.localStorage.setItem("State","Andhra Pradesh");
+window.localStorage.setItem("Country","India");
+
+
+window.localStorage.getItem("Nmae");
+
+
+
 
