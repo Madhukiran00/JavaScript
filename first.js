@@ -537,6 +537,7 @@ window.localStorage.setItem("Name", "Madhukiran");
 window.localStorage.setItem("age", "21");
 window.localStorage.setItem("State","Andhra Pradesh");
 window.localStorage.setItem("Country","India");
+window.sessionStorage.setItem("Country","India");
 
 
 let my_name=window.localStorage.getItem("Name");
