@@ -539,8 +539,14 @@ window.localStorage.setItem("State","Andhra Pradesh");
 window.localStorage.setItem("Country","India");
 
 
-window.localStorage.getItem("Nmae");
-
+let my_name=window.localStorage.getItem("Name");
+console.log(my_name);
+let my_age=window.localStorage.getItem("age");
+console.log(my_age);
+let stat=window.localStorage.getItem("State");
+console.log(stat);
+let country=window.localStorage.getItem("Country");
+console.log(country);
 
 
 
