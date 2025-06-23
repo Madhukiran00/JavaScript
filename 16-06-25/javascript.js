@@ -8,4 +8,6 @@ btn.addEventListener("click",function(){
     let input1=+(inp1.value)
     let input2=+(inp2.value)
     console.log(input1+input2)
+    
 })
+document.input.append(input1+input2)
