@@ -533,21 +533,26 @@
 // window.localStorage.setItem("madhu")
 
 // window.localStorage.getItemItem("name")
-window.localStorage.setItem("Name", "Madhukiran");
-window.localStorage.setItem("age", "21");
-window.localStorage.setItem("State","Andhra Pradesh");
-window.localStorage.setItem("Country","India");
-window.sessionStorage.setItem("Country","India");
+// window.localStorage.setItem("Name", "Madhukiran");
+// window.localStorage.setItem("age", "21");
+// window.localStorage.setItem("State","Andhra Pradesh");
+// window.localStorage.setItem("Country","India");
+// window.sessionStorage.setItem("Country","India");
 
 
-let my_name=window.localStorage.getItem("Name");
-console.log(my_name);
-let my_age=window.localStorage.getItem("age");
-console.log(my_age);
-let stat=window.localStorage.getItem("State");
-console.log(stat);
-let country=window.localStorage.getItem("Country");
-console.log(country);
+// let my_name=window.localStorage.getItem("Name");
+// console.log(my_name);
+// let my_age=window.localStorage.getItem("age");
+// console.log(my_age);
+// let stat=window.localStorage.getItem("State");
+// console.log(stat);
+// let country=window.localStorage.getItem("Country");
+// console.log(country);
+
+
+
+
+
 
 
 
