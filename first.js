@@ -551,7 +551,7 @@
 
 
 
-
+console.log(navigator)
 
 
 
