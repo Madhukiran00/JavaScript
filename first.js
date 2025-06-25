@@ -565,6 +565,8 @@ grandparent.addEventListener("click",(e)=>{
 
  })
 
+
+
  let parent=document.getElementById("parent")
 
  parent.style.height="150px"
@@ -576,6 +578,9 @@ grandparent.addEventListener("click",(e)=>{
     e.stopPropagation()
  })
 
+
+
+ 
 let child=document.getElementById("child")
 child.style.height="100px"
 child.style.width="100px"
