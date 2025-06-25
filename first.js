@@ -548,10 +548,44 @@
 // console.log(stat);
 // let country=window.localStorage.getItem("Country");
 // console.log(country);
+// console.log(navigator)
 
 
 
-console.log(navigator)
+
+let grandparent=document.getElementById("grandparent")
+ grandparent.style.height="200px"
+ grandparent.style.width="200px"
+ grandparent.style.border="2px solid red"
+ 
+
+grandparent.addEventListener("click",(e)=>{
+    console.log("This Is Grand Parent")
+    e.stopPropogation()
+
+ })
+
+ let parent=document.getElementById("parent")
+
+ parent.style.height="150px"
+ parent.style.width="150px"
+ parent.style.border="2px solid blue"
+
+ parent.addEventListener("click",(e)=>{
+    console.log("This Is Parent")
+    e.stopPropagation()
+ })
+
+let child=document.getElementById("child")
+child.style.height="100px"
+child.style.width="100px"
+child.style.border="2px solid green"
+
+child.addEventListener("click",(e)=>{
+    console.log("This Is Child")
+    e.stopPropogation()
+})
+
 
 
 
