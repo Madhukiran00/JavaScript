@@ -10,7 +10,7 @@ grandparent.addEventListener("click",(e)=>{
     console.log("This Is Grand Parent")
     // e.stopPropagation(); 
 
- })
+ },true)
 
 
  
@@ -25,7 +25,7 @@ grandparent.addEventListener("click",(e)=>{
  parent.addEventListener("click",(e)=>{
     console.log("This Is Parent")
     // e.stopPropagation(); 
- },true)
+ })
 
 
 
@@ -41,7 +41,8 @@ child.addEventListener("click",(e)=>{
 
 },true)
 
-
+console.log("madhu")
+console.log("Hello, World!");
 
 
 
