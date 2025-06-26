@@ -565,10 +565,6 @@ grandparent.addEventListener("click",(e)=>{
 
  })
 
-
- 
-
-
  let parent=document.getElementById("parent")
 
  parent.style.height="300px"
@@ -579,7 +575,6 @@ grandparent.addEventListener("click",(e)=>{
     console.log("This Is Parent")
     // e.stopPropagation(); 
  },true)
-
 
 
 
