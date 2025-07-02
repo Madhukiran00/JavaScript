@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mac Book Air M2",
+      "price": "86,000",
+      "brand": "Apple",
+      "category": "Laptop"
+    }]
+}
