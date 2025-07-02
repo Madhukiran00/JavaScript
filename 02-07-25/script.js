@@ -16,7 +16,7 @@ button("click", () => {
 }
 
 
-    fetch("https://localhost/users", {
+    fetch("https://localhost:3000/users", {
         method: "POST",
         headers: { "Content-Type": "Application/json" },
         body: JSON.stringify(details)
