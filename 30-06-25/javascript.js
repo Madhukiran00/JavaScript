@@ -5,6 +5,7 @@ fetch(`https://fakestoreapi.com/products/${1}`).then(data=>data.json()).then(d=>
 
 
 
+()
 
 
 
