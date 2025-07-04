@@ -52,4 +52,44 @@
 // a={name:"madhu",age:"21"}
 
 // console.warn("sdjkdf")
+// window.alert("sdfd")
+
+// window.confirm()
+// window.prompt()
+// window.open()
+// navigator.geolocation()
+
+
+// Bom(Browser object model)
+// window.()=> prompt  alert open close confirm moveTo resizeTo
+// navigator =>userAgent(ch) platform(os) language online geolocation
+// screen => height,width,availheight,avalwidth,pixelDepth,colorDepth
+// location => href hostname reload,replace,pathname,assign
+// history =>go(-,+) back forward
+
+
+
+
+
+// fetch("http://localhost:3000/users",{
+//     method:"POST",
+//     headers:{"Content-Type":"application/json"},
+//     body:JSON.stringify({name:"madhu",age:21})
+// }).then(d=>d.json).then(d=>console.log(d)).catch(err=>console.log(err))
+
+// fetch("https://fakestoreapi.com/products").then(data=>data.json).then(data=>console.info(data))
+
+
+
+// 
+
+
+
+
+
+
+
+
+
+
 
