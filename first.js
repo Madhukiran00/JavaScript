@@ -589,7 +589,42 @@
 
 // },true)
 
+// if(false){
+//     console.log("yes")
+// }
+// else if(true){
+//     console.log("gjgj")
+
+// }
+// else{
+//     console.log("hjjhg")
+// }
+
+// switch("df"){
+//     case "a":
+//         console.log("a")
+//         break
+//     case "b":
+//         console.log("b")
+//         break
+    
+// }
 
 
+// switch("z"){
+//     case "a":
+//         console.log("a")
+//         break
+//     case "b":
+//         console.log("b")
+//         break
+//     case "c":
+//         console.log("c")
+//         break
 
+//     case "d":
+//         console.log("d")
+//     default:
+//         console.log("not matched")
+// }
 
