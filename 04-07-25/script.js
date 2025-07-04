@@ -80,12 +80,28 @@
 // fetch("https://fakestoreapi.com/products").then(data=>data.json).then(data=>console.info(data))
 
 
+// fetch("https://fakestoreapi.com/products").then(data=>data.json().then(data=>console.log(data).catch(error=>console.log(error))))
 
 // 
 
 
+// fetch("http://localhost:3000/users",{
+//     method:"POST",
+//     headers:{"Content-Type":"application/json"},
+//     body:JSON.stringify({use_name:"madhu",age:21})
+// })
+// .then(response=>response.json())
+// .then(data=>console.log(data))
 
 
+
+fetch("http://localhost:3000/users", {
+    method: "POST",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({user_name: "kiran",age: 22})
+})
+.then(response => response.json())
+.then(data => console.log(data)) 
 
 
 
