@@ -1,7 +1,9 @@
 
 
-const welcome=function greeting(){
-    return "This is from main"
-}
+const welcome = function greeting() {
+    return "This is from main";
+};
 
-export {welcome}
+export { welcome };
+
+
