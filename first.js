@@ -628,3 +628,78 @@
 //         console.log("not matched")
 // }
 
+//  a=1
+//  do{
+//      console.log(a)
+//     a++
+// }
+// while(false)
+
+
+
+
+// do{
+//     console.log("hi")
+// }
+// while(false)
+
+
+
+
+// for(let i of l){
+//     console.log(i)
+// }
+// le=l.length
+
+// for (let i=0;i<le;i++){
+//     console.log(i)
+// }
+// l=[1,2,3,4,5,6,7,8,9]
+
+// for(let i=0;i<=l.length;i++){
+//     console.log(i)
+// }
+
+// a={a:1,b:2,c:3,d:4,e:5}
+
+// for(let i in a){
+//     console.log(i,":",a[i])
+// }
+// console.log(Math.floor(7/2)) 
+// a=(function (){
+//     console.log("hi")
+// })
+
+// a()
+
+// a=()=>{
+//     console.log("sdf")
+// }
+// a()
+
+// "use strict"
+// var a=10
+// console.log(a) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
