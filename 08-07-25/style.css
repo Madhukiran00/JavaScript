@@ -3,24 +3,6 @@
     padding: 0px;
     box-sizing:border-box
 }
-.background{
-    width:100vh;
-    height:100vh;
-    border-radius:10px solid red;
-    display:flex;
-    flex-direction:colum;
-    justify-content:center;
-    align-items:center;
-}
-heading{
-    font-size:20px;
-}
-
-.time{
-    font-size:20px;
-
-}
-
-btn{
-    cursor:pointer;
-}
+body{
+    color:red;
+};
