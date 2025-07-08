@@ -2,4 +2,37 @@
     margin:0px;
     padding: 0px;
     box-sizing:border-box
+
+}
+.background{
+    
+    width:100vh;
+    height:100vh;
+    display:flex;
+    flex-direction:colum;
+    justify-content:center;
+    align-items:center;
+}
+.card{
+    background-color:blanchedalmond;
+    
+    border-radius:20px;
+    padding-left:10vh;
+    padding-top:10vh;
+    height:30vh;
+    width:40vh
+}
+
+
+heading{
+    font-size:20px;
+}
+
+.time{
+    font-size:20px;
+
+}
+
+btn{
+    cursor:pointer;
 }
