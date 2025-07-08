@@ -4,6 +4,7 @@
     box-sizing:border-box
 
 }
+
 .background{
     
     width:100vh;
@@ -12,6 +13,7 @@
     justify-content:center;
     align-items:center;
 }
+
 .card{
    background-color:rgb(225, 186, 117);
     width:500px;
@@ -44,6 +46,7 @@
     cursor:pointer;
     
 }
+
 .button{
     display:flex;
     gap:10px;

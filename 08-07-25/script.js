@@ -5,14 +5,14 @@ let timer=document.getElementById("timer")
 
 let sec=0
 let min=0
-let time
+let time;
 let is_time_running=false
 startBtn.onclick=function(){
     if(is_time_running===true){
         return
     }
     is_time_running=true;
-    setInterval(()=>{
+    time=setInterval(()=>{
         sec++
         if(sec==60){
             min++;
@@ -26,10 +26,11 @@ startBtn.onclick=function(){
 }
 
 stopBtn.onclick=function(){
-    clearIntervel(time);
+    clearInterval(time);
     is_time_running=false
-
 }
+
+
 
 resetBtn.onclick=function(){
     clearInterval(time);
