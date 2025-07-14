@@ -22,3 +22,13 @@ findKeys(function(keys) {
     });
   });
 });
+
+
+findKeys()
+  .then(goToATM)
+  .then(checkBalance)
+  .then(buyGroceries)
+  .then(throwParty)
+  .then(() => console.log("Party time!"))
+  .catch(err => console.error(err));
+
