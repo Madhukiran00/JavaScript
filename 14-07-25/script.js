@@ -89,13 +89,30 @@ let companyDetails=[{companycode:"ABC123",employId:[101,102,103,104]},
 code="ABC123"
 
 for(let i=0; i<companyDetails.length; i++){
-    if(code=companyDetails[i].comapycode==code){
-        console.log("comapy code found")
+    if(code=companyDetails[i].companycode==code){
+        
     }
-
+    
 }
 
 // name
 // email
 // password
 // is_reistered=TRUE
+
+
+userDetails=[
+    {"username":"Madhu",
+    "email":"madhu@gmail.com",
+    "password":"123456"},
+    {"username":"Madhu",
+    "email":"madhu@gmail.com",
+    "password":"123456"}]
+
+    nam="madhu"
+    mail="madhu@gmail.com"
+for(let i=0;i<userDetails.length;i++){
+    if (userDetails[i].username == nam){
+        console.log("user exist")
+    }
+}
