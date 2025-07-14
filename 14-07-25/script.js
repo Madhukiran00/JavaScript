@@ -102,7 +102,7 @@ for(let i=0; i<companyDetails.length; i++){
 
 
 userDetails=[
-    {"username":"Madhu",
+    {"username":"madhu",
     "email":"madhu@gmail.com",
     "password":"123456"},
     {"username":"Madhu",
