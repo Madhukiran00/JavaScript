@@ -68,14 +68,14 @@
 
 
 
-let Parent={greet(){console.log("Parent")}};
+// let Parent={greet(){console.log("Parent")}};
 
 
-let child=Object.create(Parent);
+// let child=Object.create(Parent);
 
-child.some=function(){console.log("dgdfggfdh")}
+// child.some=function(){console.log("dgdfggfdh")}
 
 
-child.greet()
-child.some()
+// child.greet()
+// child.some()
 
